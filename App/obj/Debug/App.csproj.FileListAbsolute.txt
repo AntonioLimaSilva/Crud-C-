@@ -1,0 +1,14 @@
+c:\users\lucli\documents\visual studio 2015\Projects\App\App\bin\Debug\App.exe.config
+c:\users\lucli\documents\visual studio 2015\Projects\App\App\bin\Debug\App.exe
+c:\users\lucli\documents\visual studio 2015\Projects\App\App\bin\Debug\App.pdb
+c:\users\lucli\documents\visual studio 2015\Projects\App\App\bin\Debug\EntityFramework.dll
+c:\users\lucli\documents\visual studio 2015\Projects\App\App\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\lucli\documents\visual studio 2015\Projects\App\App\bin\Debug\EntityFramework.xml
+c:\users\lucli\documents\visual studio 2015\Projects\App\App\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\lucli\documents\visual studio 2015\Projects\App\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+c:\users\lucli\documents\visual studio 2015\Projects\App\App\obj\Debug\App.FormGrupo.resources
+c:\users\lucli\documents\visual studio 2015\Projects\App\App\obj\Debug\App.Properties.Resources.resources
+c:\users\lucli\documents\visual studio 2015\Projects\App\App\obj\Debug\App.csproj.GenerateResource.Cache
+c:\users\lucli\documents\visual studio 2015\Projects\App\App\obj\Debug\App.exe
+c:\users\lucli\documents\visual studio 2015\Projects\App\App\obj\Debug\App.pdb
+C:\Users\lucli\Documents\Visual Studio 2015\Projects\App\App\obj\Debug\App.FormCliente.resources
